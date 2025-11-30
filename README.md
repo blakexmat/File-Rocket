@@ -11,6 +11,7 @@
 
 ### 🌐 在线体验
 **[https://file-rocket.top/](https://file-rocket.top/)** - 立即体验，无需安装(仅作演示 推荐个人部署)
+**[https://file-rocket.tech/](https://file-rocket.tech/)** - 备用地址，速度更快
 <img width="2552" height="1314" alt="FR" src="https://github.com/user-attachments/assets/4144584b-ca15-4e6c-b810-7cd729ddd7a9" />  
 
 
@@ -31,7 +32,7 @@
 
 ## 📦 部署指南 (Docker)
 
-> 💡 **提示**：不想自己部署？直接访问 [在线体验地址](https://file-rocket.top/) 试用！(仅作演示 推荐个人部署)
+> 💡 **提示**：不想自己部署？直接访问 [在线体验地址](https://file-rocket.top/) [备用地址(高速)](https://file-rocket.tech/)试用！(仅作演示 推荐个人部署)
 
 我们强烈推荐直接使用 Docker 部署，这是最快、最稳定的方式。
 

@@ -46,6 +46,9 @@
 
 ### 🔐 强大的管理员系统
 
+<img width="737" height="1316" alt="image" src="https://github.com/user-attachments/assets/1528f562-05bf-486f-ad10-74a3ff88450c" />
+
+
 - **隐藏式入口**：首页版权文字点击 4 次触发
 - **密码保护**：默认密码 `7428`（首次登录后请修改）
 - **功能配置**：动态开启/关闭传输模式

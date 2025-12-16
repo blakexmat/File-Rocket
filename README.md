@@ -26,6 +26,9 @@
 
 ### 🎯 三种传输模式，灵活选择
 
+<img width="2560" height="1351" alt="UP" src="https://github.com/user-attachments/assets/a1be7307-c7ea-40ae-ba76-8b7460ff66ce" />
+
+
 #### ⚡ 内存流式传输
 - 端到端直连，服务器仅做中继，**不存储任何文件**
 - 双方需同时在线，速度快，仅受带宽限制

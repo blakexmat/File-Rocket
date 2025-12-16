@@ -3,8 +3,8 @@
 <div align="center">
 
 ![File-Rocket Logo](https://img.shields.io/badge/File--Rocket-4.0-blueviolet?style=for-the-badge&logo=rocket)
-[![Docker Image](https://img.shields.io/docker/v/lihupr/file-rocket?label=Docker%20Hub&style=flat-square&color=blue)](https://hub.docker.com/r/lihupr/file-rocket)
-[![GitHub](https://img.shields.io/badge/GitHub-Lihu--PR-black?style=flat-square&logo=github)](https://github.com/Lihu-PR)
+[![Docker Image](https://img.shields.io/docker/v/lihupr/file-rocket?label=Docker%20Hub&style=for-the-badge&color=blue&logo=docker)](https://hub.docker.com/r/lihupr/file-rocket)
+[![GitHub](https://img.shields.io/badge/GitHub-Lihu--PR-black?style=for-the-badge&logo=github)](https://github.com/Lihu-PR)
 
 **新一代轻量级、高性能的异地大文件传输工具**  
 专为 ARM64 嵌入式设备（如 OpenWrt 软路由、树莓派）优化，同时也完美支持 PC 和服务器。

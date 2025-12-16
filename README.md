@@ -238,13 +238,9 @@ A: 进入管理员面板 → 文件管理 → 点击 **"删除所有文件"** �
 - **Docker Hub**：[lihupr](https://hub.docker.com/u/lihupr)
 - **哩虎的技术博客**：[lihu.site](https://lihu.site/)
 
----
-
 ## 📄 许可证
 
 MIT License
-
----
 
 <div align="center">
 

@@ -246,6 +246,10 @@ MIT License
 
 ---
 
+<div align="center">
+
 Made with ❤️ by Lihu-PR
 
 **File-Rocket 4.0** - 让文件传输更简单、更快速、更安全
+
+</div>
